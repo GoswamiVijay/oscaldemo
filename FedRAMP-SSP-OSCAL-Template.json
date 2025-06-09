@@ -138,12 +138,12 @@
         },
         {
           "id": "admin-unix",
-          "title": "[SAMPLE]Unix Administrator",
+          "title": "[SAMPLE123]Unix Administrator",
           "description": "This is a sample role."
         },
         {
           "id": "admin-client",
-          "title": "[SAMPLE]Client Administrator",
+          "title": "[SAMPLE123]Client Administrator",
           "description": "This is a sample role."
         }
       ],
@@ -321,12 +321,12 @@
         {
           "uuid": "80361ec4-bfce-4b5c-85c8-313d6ebd220b",
           "type": "organization",
-          "name": "[SAMPLE]Remote System Org Name"
+          "name": "[SAMPLE123]Remote System Org Name"
         },
         {
           "uuid": "09ad840f-aa79-43aa-9f22-25182c2ab11b",
           "type": "person",
-          "name": "[SAMPLE]ICA POC's Name",
+          "name": "[SAMPLE123]ICA POC's Name",
           "props": [
             {
               "name": "job-title",
@@ -348,14 +348,14 @@
         {
           "uuid": "f0bc13a4-3303-47dd-80d3-380e159c8362",
           "type": "organization",
-          "name": "[SAMPLE]Example IaaS Provider",
+          "name": "[SAMPLE123]Example IaaS Provider",
           "short-name": "E.I.P.",
           "remarks": "Underlying service provider. Leveraged Authorization."
         },
         {
           "uuid": "3360e343-9860-4bda-9dfc-ff427c3dfab6",
           "type": "person",
-          "name": "[SAMPLE]Person Name 1",
+          "name": "[SAMPLE123]Person Name 1",
           "props": [
             {
               "name": "job-title",
@@ -384,7 +384,7 @@
         {
           "uuid": "36b8d6c0-3b25-42cc-b529-cf4066145cdd",
           "type": "person",
-          "name": "[SAMPLE]Person Name 2",
+          "name": "[SAMPLE123]Person Name 2",
           "props": [
             {
               "name": "job-title",
@@ -418,7 +418,7 @@
         {
           "uuid": "0cec09d9-20c6-470b-9ffc-85763375880b",
           "type": "person",
-          "name": "[SAMPLE]Person Name 3",
+          "name": "[SAMPLE123]Person Name 3",
           "props": [
             {
               "name": "job-title",
@@ -452,7 +452,7 @@
         {
           "uuid": "f75e21f6-43d8-46ab-890d-7f2eebc5a830",
           "type": "person",
-          "name": "[SAMPLE]Person Name 4",
+          "name": "[SAMPLE123]Person Name 4",
           "props": [
             {
               "name": "job-title",
@@ -486,7 +486,7 @@
         {
           "uuid": "132953a9-640c-46f7-9de9-3fa15ec99361",
           "type": "person",
-          "name": "[SAMPLE]Person Name 5",
+          "name": "[SAMPLE123]Person Name 5",
           "props": [
             {
               "name": "job-title",
@@ -520,7 +520,7 @@
         {
           "uuid": "4fded5fd-7a65-47ea-bd76-df57c46e27d1",
           "type": "person",
-          "name": "[SAMPLE]Person Name 6",
+          "name": "[SAMPLE123]Person Name 6",
           "props": [
             {
               "name": "job-title",
@@ -554,7 +554,7 @@
         {
           "uuid": "db234cb7-1776-425c-9ac4-b067c1723011",
           "type": "person",
-          "name": "[SAMPLE]Person Name 7",
+          "name": "[SAMPLE123]Person Name 7",
           "props": [
             {
               "name": "job-title",
@@ -588,12 +588,12 @@
         {
           "uuid": "b306f5af-b93a-4a7f-a2b2-37a44fc92a79",
           "type": "organization",
-          "name": "[SAMPLE] IT Department"
+          "name": "[SAMPLE123] IT Department"
         },
         {
           "uuid": "59cdc953-5902-4fa4-a878-f3163854624c",
           "type": "organization",
-          "name": "[SAMPLE]Security Team"
+          "name": "[SAMPLE123]Security Team"
         }
       ],
       "responsible-parties": [
@@ -922,7 +922,7 @@
       "users": [
         {
           "uuid": "9cb0fab0-78bd-44ba-bcb8-3e9801cc952f",
-          "title": "[SAMPLE]Unix System Administrator",
+          "title": "[SAMPLE123]Unix System Administrator",
           "props": [
             {
               "name": "sensitivity",
@@ -955,7 +955,7 @@
         },
         {
           "uuid": "16ec71e7-025c-43e4-9d3f-3acb485fac2e",
-          "title": "[SAMPLE]Client Administrator",
+          "title": "[SAMPLE123]Client Administrator",
           "props": [
             {
               "name": "sensitivity",
@@ -986,7 +986,7 @@
         },
         {
           "uuid": "ba7708c1-4041-48ab-9b7b-1ddb5e175fe0",
-          "title": "[SAMPLE]Program Director",
+          "title": "[SAMPLE123]Program Director",
           "props": [
             {
               "name": "sensitivity",
@@ -1112,8 +1112,8 @@
         {
           "uuid": "95beec7e-6f82-4aaa-8211-969cd7c1f1ab",
           "type": "validation",
-          "title": "[SAMPLE]Module Name",
-          "description": "[SAMPLE]FIPS 140 Validated Module",
+          "title": "[SAMPLE123]Module Name",
+          "description": "[SAMPLE123]FIPS 140 Validated Module",
           "props": [
             {
               "name": "validation-type",
@@ -1137,7 +1137,7 @@
         {
           "uuid": "05ceb8df-52e7-49db-9719-891723f366bd",
           "type": "software",
-          "title": "[SAMPLE]Product Name",
+          "title": "[SAMPLE123]Product Name",
           "description": "FUNCTION: Describe typical component function.",
           "props": [
             {
@@ -1188,7 +1188,7 @@
         {
           "uuid": "1541015b-6d19-42cb-a991-624cc082ed4d",
           "type": "hardware",
-          "title": "[SAMPLE]Product",
+          "title": "[SAMPLE123]Product",
           "description": "FUNCTION: Describe typical component function.",
           "props": [
             {
@@ -1329,7 +1329,7 @@
         {
           "uuid": "d5841417-de4c-4d84-ab3c-39dd1fd32a96",
           "type": "service",
-          "title": "[SAMPLE]Service Name",
+          "title": "[SAMPLE123]Service Name",
           "description": "Describe the service",
           "purpose": "Describe the reason the service is needed.",
           "props": [
@@ -1374,7 +1374,7 @@
             {
               "name": "service-processor",
               "ns": "https://fedramp.gov/ns/oscal",
-              "value": "[SAMPLE] Telco Name"
+              "value": "[SAMPLE123] Telco Name"
             },
             {
               "name": "ipv4-address",
@@ -2048,25 +2048,25 @@
                     {
                       "param-id": "ac-2_prm_1",
                       "values": [
-                        "[SAMPLE]privileged, non-privileged"
+                        "[SAMPLE123]privileged, non-privileged"
                       ]
                     },
                     {
                       "param-id": "ac-2_prm_2",
                       "values": [
-                        "[SAMPLE]all"
+                        "[SAMPLE123]all"
                       ]
                     },
                     {
                       "param-id": "ac-2_prm_3",
                       "values": [
-                        "[SAMPLE]The Access Control Procedure"
+                        "[SAMPLE123]The Access Control Procedure"
                       ]
                     },
                     {
                       "param-id": "ac-2_prm_4",
                       "values": [
-                        "[SAMPLE]annually"
+                        "[SAMPLE123]annually"
                       ]
                     }
                   ]
@@ -3859,7 +3859,7 @@
         },
         {
           "uuid": "d45612a9-cf25-4ef6-b2dd-69e38ba2967a",
-          "title": "[SAMPLE]Name or Title of Document",
+          "title": "[SAMPLE123]Name or Title of Document",
           "props": [
             {
               "name": "type",
@@ -3884,7 +3884,7 @@
         },
         {
           "uuid": "a8a0cc81-800f-479f-93d3-8b8743d9b98d",
-          "title": "[SAMPLE]Privacy-Related Law Citation",
+          "title": "[SAMPLE123]Privacy-Related Law Citation",
           "props": [
             {
               "name": "type",
@@ -3913,7 +3913,7 @@
         },
         {
           "uuid": "545e75c3-537f-48fe-9630-95337916d982",
-          "title": "[SAMPLE]Regulation Citation",
+          "title": "[SAMPLE123]Regulation Citation",
           "props": [
             {
               "name": "type",
@@ -3938,7 +3938,7 @@
         },
         {
           "uuid": "9d6cf2b4-8e88-4040-a33c-7bc206553a1a",
-          "title": "[SAMPLE]Interconnection Security Agreement Title",
+          "title": "[SAMPLE123]Interconnection Security Agreement Title",
           "props": [
             {
               "name": "publication",
